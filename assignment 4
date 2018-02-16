@@ -6,8 +6,8 @@
 
 ///////////////////////////////////////////////////////////////////////////////
 //                 
-// Title:            Program 2/assigment 4
-// Files:            (list of source files)
+// Title:            Program 2/assigment 4 
+// Files:            main.cpp
 // Semester:         3013 Advanced Alg Spring 2018
 //
 // Author:			 Brett Workman
@@ -366,6 +366,31 @@ public:
 		VizOut.close();
 	}
 };
+
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+#include "BSTree.h"
+
+///////////////////////////////////////////////////////////////////////////////
+//                 
+// Title:            Program 2/assigment 4 main.cpp
+// Files:            BSTree.h
+// Semester:         3013 Advanced Alg Spring 2018
+//
+// Author:			 Brett Workman
+// Email:            brettworkman2014@gmail.com
+// Description:
+//       Complete the program and make it so that it can preform a 
+//		 proper delete function.
+/////////////////////////////////////////////////////////////////////////////////
+
+//http://www.webgraphviz.com/
+
+using namespace std;
+
+
 
 int main()
 {
