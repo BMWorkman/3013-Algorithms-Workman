@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -7,8 +6,8 @@
 
 ///////////////////////////////////////////////////////////////////////////////
 //                 
-// Title:            Program 2/assigment 4 main.cpp
-// Files:            BSTree.h, main.cpp
+// Title:            Program 2/assigment 4
+// Files:            (list of source files)
 // Semester:         3013 Advanced Alg Spring 2018
 //
 // Author:			 Brett Workman
